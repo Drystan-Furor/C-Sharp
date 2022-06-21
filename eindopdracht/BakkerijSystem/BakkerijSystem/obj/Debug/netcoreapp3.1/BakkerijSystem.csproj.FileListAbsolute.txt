@@ -1,0 +1,26 @@
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.exe
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.deps.json
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.runtimeconfig.json
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.dll
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.pdb
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.AssemblyInfo.cs
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.dll
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.pdb
+C:\Users\Tristan\Documents\avans-c-sharp\source\repo\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.genruntimeconfig.cache
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.exe
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.deps.json
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.runtimeconfig.json
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.runtimeconfig.dev.json
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.dll
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\bin\Debug\netcoreapp3.1\BakkerijSystem.pdb
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.csprojAssemblyReference.cache
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.AssemblyInfo.cs
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.dll
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.pdb
+C:\Users\Tristan\Documents\avans-c-sharp\weekopdracht\Week 1\BakkerijSystem\BakkerijSystem\obj\Debug\netcoreapp3.1\BakkerijSystem.genruntimeconfig.cache
